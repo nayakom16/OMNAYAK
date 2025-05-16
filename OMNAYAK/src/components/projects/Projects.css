@@ -29,7 +29,7 @@
 
 .project-item-left img {
     max-width: 400px;
-    width: 300px;
+    width: 100%;
     border-radius: 20px;
     border: 3px solid rgba(157, 151, 151, 0.738);
     
@@ -67,6 +67,14 @@
         flex-direction: column;
     }
 
+    .project-item-left img {
+        
+        max-width: 300px;
+        width: 100%;
+        border-radius: 20px;
+        border: 3px solid rgba(157, 151, 151, 0.738);
+        
+    }
 
     .project-item-right {
         width: 100%;
