@@ -20,7 +20,7 @@ export const project = [
         name :"🛍️ CARA – E-Commerce Frontend Application (React.js)",
         des: "CARA is a fully functional e-commerce frontend project developed using React.js, showcasing my ability to build scalable, component-based web applications. The platform includes features like product listings, add-to-cart functionality, and dynamic UI updates using React state and props. I focused on clean code structure, reusability, and responsiveness using standard CSS. Though not deployed live, this project demonstrates my proficiency in building user-centric interfaces and handling real-world e-commerce workflows. Working on CARA deepened my understanding of modern frontend development and enhanced my problem-solving skills in managing UI logic and user interaction patterns.",
         icon : github,
-        link : "https://github.com/nayakom16/CARA"
+        link : "https://github.com/nayakom16/cara-new"
     },
     {
         img : foodapp,
